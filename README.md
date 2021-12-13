@@ -1,7 +1,7 @@
 ## Olá, me chamo Laryssa! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 💻 Atualmente estou trabalhando em Agente de Registro
+- 💻 Atualmente estou trabalhando como Agente de Registro
 - 🌱 Atualmente estou aprendendo: - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> 
 - 🤔 Estou procurando ajuda com Python. Futuramente vou aprender Java, React
 - 📫 Como entrar em contato comigo: <div>
@@ -20,3 +20,4 @@
 </div>
   
   
+![Snake animation](https://github.com/lary-coder/lary-coder/blob/output/github-contribution-grid-snake.svg)

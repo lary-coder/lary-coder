@@ -19,8 +19,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lary-coder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-<div>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8GY5rJu"  ><a href="//imgur.com/a/8GY5rJu">Meu Nível</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
-
-  
+<img src="https://i.imgur.com/EaIaaIO.png">

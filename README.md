@@ -20,5 +20,3 @@
 </div>
   
   ![Meu Nível](img/1 imagem.png)
-
-  </div>

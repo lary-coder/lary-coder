@@ -19,4 +19,3 @@
 </div>
 
 ###
-![Snake animation](https://github.com/{{lary-coder}}/{{lary-coder}}/blob/output/github-contribution-grid-snake.svg)

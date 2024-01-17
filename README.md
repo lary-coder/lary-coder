@@ -28,8 +28,4 @@
   <img height="216" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/lary-coder/lary-coder/output/snake.svg" alt="Snake animation" />
-
-###

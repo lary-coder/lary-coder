@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Em dezembro de 2023, conclui curso de SQL através da ONG Base dos Dados. Iniciei o curso de Python pela mesma Instituição de pesquisa para me capacitar na carreira de analista de dados e marketing.<br><br>Tenho conhecimentos básicos em C, Git, CSS, Unix, Java e React através do Curso de Desenvolvedor Full-Stack (1800 h) da Holberton School. <br><br>Sou formada em Gestão Ambiental em 2012. Fiz Pós graduação em Marketing Digital, em março de 2020, pela Emeritus, curso de 3 meses totalmente em inglês.<br><br>Desde 2011, coordenei pesquisas do Instituto Paracleto com trabalhos publicados sobre reciclagem de lixo na cidade, percepção do carioca sobre tratamento de doenças crônicas, pesquisa sobre qualidade do sono do carioca, percepção sobre desastres climáticos, etc.</p>
+<p align="left">Embora seja tecnóloga em Gestão Ambiental desde 2012, a pesquisa sempre me interessou. <br><br>Através da ONG Instituto Paracleto coordenei a realização de pesquisas na cidade do Rio de Janeiro sobre vários temas: <br><br>1. percepção do carioca sobre desastres climáticos, <br>2. reciclagem de lixo na cidade, <br>3. percepção do carioca sobre tratamento de doenças crônicas<br><br>Essas e outras pesquisas foram publicadas no blog Paracleto. <br>Em 2020, após completar Especialização em Marketing pela Emeritus, percebi então que era possível aprender a programar.<br>Fiz o curso de Full Stack da Holberton School (1800h) mas em 2021 foi descontinuado e tinha 75% de progresso.<br><br>Em 2023, fiz o curso de SQL e em 2024, fiz o curso de Python oferecido pela Base dos Dados.  Recentemente, entrei para a Comunidade de Estatística que é liderada pelo Thiago Marques.<br><br>Estamos desenvolvendo varias pesquisas sobre a cidade do Rio de Janeiro cruzando dados públicos e privados tais como IPTU, passageiros de trens, consumo de agua, energia elétrica e outros dados sócio-econômicos.</p>
 
 ###
 
@@ -27,3 +27,5 @@
 <div align="center">
   <img height="216" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
+
+###
